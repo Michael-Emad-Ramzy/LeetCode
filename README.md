@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/Michael-Emad-Ramzy/LeetCode/tree/master/1415-students-and-examinations) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Michael-Emad-Ramzy/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [2087-confirmation-rate](https://github.com/Michael-Emad-Ramzy/LeetCode/tree/master/2087-confirmation-rate) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Michael-Emad-Ramzy/LeetCode/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Michael-Emad-Ramzy/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Michael-Emad-Ramzy/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

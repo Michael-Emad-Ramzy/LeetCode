@@ -4,8 +4,8 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var rotate = function(nums, k) {
-        k = k % nums.length; // Reduce k to a valid rotation count
-
+    k = k % nums.length; // Reduce k to a valid rotation count
+    
     // Reverse the entire array
     reverse(nums, 0, nums.length - 1);
     // Reverse the first k elements
@@ -23,4 +23,4 @@ function reverse(arr, start, end) {
         start++;
         end--;
     }
-};
+}

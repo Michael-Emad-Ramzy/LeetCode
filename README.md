@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Michael-Emad-Ramzy/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Michael-Emad-Ramzy/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Michael-Emad-Ramzy/LeetCode/tree/master/0189-rotate-array) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Michael-Emad-Ramzy/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Michael-Emad-Ramzy/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Michael-Emad-Ramzy/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 <!---LeetCode Topics End-->
